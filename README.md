@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Mickael
 
-<!--
-**mickaelordine/mickaelordine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤔 About Me
+Aspiring young professional at the beginning of my career, eager to learn, well-organized, and ambitious. 
+Passionate about working in the video game industry to contribute to its growth in Italy.
 
-Here are some ideas to get you started:
+## Programming Languages
+ `C++` `C#` `C` `Java` `Python` `SQL` `HTML` `CSS`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other Tools & Technologies
+`Unreal Engine` `Unity` `Blueprints` `Blender` `Ableton`
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/mickael-ordine-2440951b2/)  
+- [Itch.io](https://www.linkedin.com/in/mickael-ordine-2440951b2/)  
+- [Email](ordinemickael99@gmail.com)
